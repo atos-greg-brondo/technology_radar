@@ -194,7 +194,7 @@ To change the index.html, create a public folder in your application and put you
 For reference have a look at [public/index.html](./public/index.html).
 
 ### Change the fonts
-To change the fonts, create a public folder in your application and put your fonts in it.
+To change the fonts, create a public/fonts folder in your application and put your fonts in it.
 
 Create a `fonts.css` in the public folder and load your fonts.
 > For now only 2 fonts will be used: `DIN normal` and `DIN 300`.
